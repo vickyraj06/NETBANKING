@@ -1,0 +1,317 @@
+2021-10-03 09:21:47,756 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 09:21:54,128 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 09:21:54,146 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 09:21:54,870 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 09:21:54,991 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 09:21:55,059 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 09:21:55,148 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 09:21:55,307 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 09:21:55,388 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 09:21:55,541 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 09:21:55,685 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 09:21:55,808 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 09:21:55,935 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 09:21:56,052 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 09:21:57,307 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 09:21:57,359 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 09:21:57,364 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 09:21:57,364 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 09:21:57,664 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 09:24:31,381 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 09:24:36,721 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 09:24:37,146 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 09:24:42,284 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 09:24:42,311 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 09:24:43,068 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 09:24:43,183 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 09:24:43,253 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 09:24:43,353 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 09:24:43,432 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 09:24:43,519 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 09:24:43,615 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 09:24:43,713 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 09:24:43,804 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 09:24:43,934 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 09:24:44,015 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 09:24:45,189 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 09:24:45,209 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 09:24:45,210 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 09:24:45,210 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 09:24:45,471 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 10:24:12,518 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 10:24:17,544 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 10:24:18,009 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 10:24:22,426 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 10:24:22,432 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 10:24:22,886 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 10:24:23,002 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 10:24:23,077 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 10:24:23,181 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 10:24:23,280 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 10:24:23,366 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 10:24:23,458 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 10:24:23,554 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 10:24:23,645 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 10:24:23,766 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 10:24:23,846 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 10:24:24,923 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 10:24:24,947 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 10:24:24,948 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 10:24:24,948 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 10:24:25,161 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 10:26:07,747 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 10:26:13,115 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 10:26:13,549 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 10:26:18,792 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 10:26:18,817 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 10:26:19,600 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 10:26:19,725 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 10:26:19,799 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 10:26:19,897 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 10:26:19,991 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 10:26:20,078 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 10:26:20,176 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 10:26:20,272 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 10:26:20,366 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 10:26:20,489 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 10:26:20,572 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 10:26:21,886 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 10:26:21,931 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 10:26:21,932 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 10:26:21,932 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 10:26:22,193 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 10:28:43,715 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 10:28:49,331 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 10:28:49,805 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 10:28:55,255 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 10:28:55,271 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 10:28:56,011 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 10:28:56,134 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 10:28:56,201 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 10:28:56,317 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 10:28:56,420 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 10:28:56,502 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 10:28:56,593 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 10:28:56,684 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 10:28:56,817 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 10:28:56,965 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 10:28:57,053 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 10:28:58,297 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 10:28:58,319 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 10:28:58,319 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 10:28:58,320 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 10:28:58,621 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 10:34:04,535 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 10:34:10,974 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 10:34:11,000 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 10:34:11,839 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 10:34:11,967 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 10:34:12,040 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 10:34:12,136 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 10:34:12,278 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 10:34:12,365 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 10:34:12,518 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 10:34:12,630 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 10:34:12,750 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 10:34:12,916 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 10:34:13,035 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 10:34:13,532 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 10:34:14,447 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 10:51:35,892 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 10:51:40,818 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 10:51:41,056 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 10:51:41,194 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 10:51:42,712 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 10:51:42,756 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN PASSED 
+2021-10-03 10:51:42,758 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTED 
+2021-10-03 10:51:43,162 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 10:56:01,391 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 10:56:07,044 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 10:56:07,056 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 10:56:07,697 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 10:56:07,842 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 10:56:07,926 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 10:56:08,045 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 10:56:08,142 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 10:56:08,276 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 10:56:08,447 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 10:56:08,592 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 10:56:08,719 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 10:56:08,854 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 10:56:08,952 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 10:56:10,511 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 10:56:10,562 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 10:56:10,566 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 10:56:10,567 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 10:56:11,035 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:17:36,299 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:17:40,808 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:17:41,016 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:17:41,117 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:17:42,352 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:17:42,389 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN PASSED 
+2021-10-03 11:17:42,391 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTED 
+2021-10-03 11:17:42,741 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:17:42,749 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:17:47,170 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME PROVIDED 
+2021-10-03 11:17:47,270 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD PROVIDED 
+2021-10-03 11:17:48,934 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:17:51,504 - com.netbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-03 11:17:51,654 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME PROVIDED 
+2021-10-03 11:17:51,733 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD PROVIDED 
+2021-10-03 11:17:52,314 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:17:54,283 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME PROVIDED 
+2021-10-03 11:17:54,376 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD PROVIDED 
+2021-10-03 11:17:54,944 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:17:57,481 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:17:57,485 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:18:02,854 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 11:18:02,875 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 11:18:03,586 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 11:18:03,713 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 11:18:03,780 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 11:18:03,878 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 11:18:03,968 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 11:18:04,065 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 11:18:04,165 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 11:18:04,264 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 11:18:04,356 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 11:18:04,472 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 11:18:04,560 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 11:18:05,860 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 11:18:05,881 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:18:05,882 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:18:05,882 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 11:18:06,137 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:19:38,174 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:19:42,630 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:19:42,875 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:19:43,011 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:19:44,302 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:19:44,343 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN PASSED 
+2021-10-03 11:19:44,345 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTED 
+2021-10-03 11:19:44,711 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:19:44,718 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:19:49,374 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME PROVIDED 
+2021-10-03 11:19:49,474 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD PROVIDED 
+2021-10-03 11:19:50,942 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:19:53,566 - com.netbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-03 11:19:53,755 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME PROVIDED 
+2021-10-03 11:19:53,840 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD PROVIDED 
+2021-10-03 11:19:54,324 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:19:56,159 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME PROVIDED 
+2021-10-03 11:19:56,244 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD PROVIDED 
+2021-10-03 11:19:56,822 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:19:59,018 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:19:59,023 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:20:03,995 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 11:20:04,022 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 11:20:04,705 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 11:20:04,833 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 11:20:04,907 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 11:20:05,006 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 11:20:05,104 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 11:20:05,193 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 11:20:05,303 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 11:20:05,391 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 11:20:05,493 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 11:20:05,606 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 11:20:05,691 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 11:20:06,902 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 11:20:06,928 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:20:06,928 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:20:06,928 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 11:20:07,153 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:26:08,963 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:26:13,455 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:26:13,661 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:26:13,764 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:26:15,207 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:26:15,245 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN PASSED 
+2021-10-03 11:26:15,247 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTED 
+2021-10-03 11:26:15,596 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:26:15,602 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:26:20,034 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME PROVIDED 
+2021-10-03 11:26:20,133 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD PROVIDED 
+2021-10-03 11:26:21,691 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:26:24,486 - com.netbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-03 11:26:24,782 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME PROVIDED 
+2021-10-03 11:26:24,856 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD PROVIDED 
+2021-10-03 11:26:25,440 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:26:27,420 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME PROVIDED 
+2021-10-03 11:26:27,524 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD PROVIDED 
+2021-10-03 11:26:28,081 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:26:30,225 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:26:30,230 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:26:35,137 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 11:26:35,153 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 11:26:35,868 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 11:26:35,993 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 11:26:36,068 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 11:26:36,160 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 11:26:36,264 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 11:26:36,347 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 11:26:36,448 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 11:26:36,543 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 11:26:36,630 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 11:26:36,747 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 11:26:36,835 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 11:26:38,048 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 11:26:38,104 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:26:38,105 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:26:38,106 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 11:26:38,347 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:33:35,863 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:33:39,787 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:33:39,921 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:33:40,006 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:33:41,037 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:33:41,054 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN PASSED 
+2021-10-03 11:33:41,055 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTED 
+2021-10-03 11:33:41,248 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:33:41,255 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:33:45,669 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 11:33:45,684 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 11:33:46,234 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 11:33:46,343 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 11:33:46,406 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 11:33:46,521 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 11:33:46,628 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 11:33:46,710 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 11:33:46,788 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 11:33:46,864 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 11:33:46,938 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 11:33:47,032 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 11:33:47,102 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 11:33:48,154 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 11:33:48,175 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:33:48,175 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:33:48,176 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 11:33:48,346 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:36:35,429 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:36:39,110 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:36:39,277 - com.netbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:36:39,363 - com.netbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:36:40,418 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:36:40,436 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN PASSED 
+2021-10-03 11:36:40,437 - com.netbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTED 
+2021-10-03 11:36:40,651 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:36:40,662 - com.netbanking.TestCases.BaseClass -INFO -  OPENING BROWSER 
+2021-10-03 11:36:45,025 - com.netbanking.TestCases.BaseClass -INFO -  LOGIN SUCCESFULLY 
+2021-10-03 11:36:45,035 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 STARTED 
+2021-10-03 11:36:45,511 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED NEW CUSTOMER MENU 
+2021-10-03 11:36:45,612 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED NAME 
+2021-10-03 11:36:45,675 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED GENDER 
+2021-10-03 11:36:45,750 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED DOB 
+2021-10-03 11:36:45,836 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ADDRESS 
+2021-10-03 11:36:45,906 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED CITY 
+2021-10-03 11:36:45,990 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED STATE 
+2021-10-03 11:36:46,065 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED ZIPCODE 
+2021-10-03 11:36:46,141 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MOBILENO 
+2021-10-03 11:36:46,234 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED MAIL 
+2021-10-03 11:36:46,310 - com.netbanking.TestCases.BaseClass -INFO -  ENTERED PASSWORD 
+2021-10-03 11:36:47,365 - com.netbanking.TestCases.BaseClass -INFO -  CLICKED SUBMIT 
+2021-10-03 11:36:47,387 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:36:47,387 - com.netbanking.TestCases.BaseClass -INFO -  ADD CUSTOMER DETAILS SUCCESSFULLY 
+2021-10-03 11:36:47,387 - com.netbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TESTED 
+2021-10-03 11:36:47,587 - com.netbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
